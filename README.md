@@ -26,6 +26,8 @@ if __name__ == '__main__':
   main()
 ```
 OUTPUT :
+
+
 ![image](https://github.com/Kamali22004796/EX-7-Implementation-of-BTree-Indexing/assets/120567837/e63e7748-d291-4ebb-af00-dd3b8b8de87f)
 
 # RESULT :
